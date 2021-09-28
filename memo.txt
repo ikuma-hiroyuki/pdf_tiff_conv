@@ -1,0 +1,6 @@
+https://pypi.org/project/pdf2image/
+http://blog.alivate.com.au/poppler-windows/
+https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html#tiff
+
+文字化け・空白対策
+http://pdf-file.nnn2.com/?p=863
